@@ -3,7 +3,6 @@
  */
 package org.testunited.examples.learnright.course.test.api;
 
-import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
 import static io.restassured.RestAssured.*;
